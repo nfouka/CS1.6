@@ -1,0 +1,62 @@
+L 02/11/2016 - 04:47:49: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 02/11/2016 - 04:47:49: client_disconnected forward has been disabled - check your gamedata files.
+L 02/11/2016 - 04:47:50: -------- Mapchange to de_dust2 --------
+L 02/11/2016 - 04:47:50: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/11/2016 - 04:47:55: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 04:47:55: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 04:54:05: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 02/11/2016 - 04:54:05: client_disconnected forward has been disabled - check your gamedata files.
+L 02/11/2016 - 04:54:05: -------- Mapchange to de_dust2 --------
+L 02/11/2016 - 04:54:06: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/11/2016 - 04:54:10: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 04:54:11: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 04:54:41: -------- Mapchange to de_dust2 --------
+L 02/11/2016 - 04:54:41: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/11/2016 - 04:54:46: [admin.amxx] Login: "Player<7><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 04:54:46: [admin.amxx] Login: "Player<7><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 05:36:47: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 02/11/2016 - 05:36:47: client_disconnected forward has been disabled - check your gamedata files.
+L 02/11/2016 - 05:36:47: -------- Mapchange to de_dust2 --------
+L 02/11/2016 - 05:36:48: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/11/2016 - 05:36:53: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 05:36:53: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 06:22:17: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 02/11/2016 - 06:22:17: client_disconnected forward has been disabled - check your gamedata files.
+L 02/11/2016 - 06:22:17: -------- Mapchange to de_dust2 --------
+L 02/11/2016 - 06:22:17: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/11/2016 - 06:22:22: [admin.amxx] Login: "Player<1><STEAM_0:0:1716784549><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 06:22:22: [admin.amxx] Login: "Player<1><STEAM_0:0:1716784549><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 07:33:36: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 02/11/2016 - 07:33:36: client_disconnected forward has been disabled - check your gamedata files.
+L 02/11/2016 - 07:33:37: -------- Mapchange to de_dust2 --------
+L 02/11/2016 - 07:33:37: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/11/2016 - 07:33:42: [admin.amxx] Login: "Player<1><STEAM_0:0:1716784549><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 07:33:42: [admin.amxx] Login: "Player<1><STEAM_0:0:1716784549><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 07:58:43: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 02/11/2016 - 07:58:43: client_disconnected forward has been disabled - check your gamedata files.
+L 02/11/2016 - 07:58:43: -------- Mapchange to cs_mansion --------
+L 02/11/2016 - 07:58:43: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/11/2016 - 07:58:48: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 07:58:48: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 07:59:03: -------- Mapchange to cs_mansion --------
+L 02/11/2016 - 07:59:03: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/11/2016 - 07:59:08: [admin.amxx] Login: "Player<3><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 07:59:08: [admin.amxx] Login: "Player<3><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 08:03:38: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 02/11/2016 - 08:03:38: client_disconnected forward has been disabled - check your gamedata files.
+L 02/11/2016 - 08:03:38: -------- Mapchange to cs_office --------
+L 02/11/2016 - 08:03:39: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/11/2016 - 08:03:43: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 08:03:44: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 08:22:32: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 02/11/2016 - 08:22:32: client_disconnected forward has been disabled - check your gamedata files.
+L 02/11/2016 - 08:22:33: -------- Mapchange to cs_office --------
+L 02/11/2016 - 08:22:48: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/11/2016 - 08:22:49: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 08:22:54: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 08:26:21: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 02/11/2016 - 08:26:21: client_disconnected forward has been disabled - check your gamedata files.
+L 02/11/2016 - 08:26:21: -------- Mapchange to cs_italy --------
+L 02/11/2016 - 08:26:22: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/11/2016 - 08:26:22: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 02/11/2016 - 08:26:23: [admin.amxx] Login: "Player<1><STEAM_0:0:1822114231><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
