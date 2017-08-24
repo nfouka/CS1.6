@@ -1,4 +1,4 @@
-# How to run the CS1.6 
+# How to run the CS1.6 With CS GO 
 ```
 remove old cstrike  ; rm -rf cstrike/ 
 copy the new source : cp -r cstrike . 
